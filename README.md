@@ -3,4 +3,4 @@ Multivariant data analysis methods, namely PCA and LSTM Autoencoder, are applied
 
 As the project was conducted with a partner company, data specific information cannot be shown due to privacy concerns. 
 
-![](/image/Test11.PNG)
+![](/Test11.PNG)
